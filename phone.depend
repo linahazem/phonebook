@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568054330 source:c:\users\dell\desktop\phone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1568054330 source:d:\projects\phone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
